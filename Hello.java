@@ -1,12 +1,10 @@
-package com.chainsys.day4;
+package com.chainsys.day1;
 
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String Str = "hello";
-		System.out.println(Str);
 
+		System.out.println("Hello World");
 	}
 
 }
